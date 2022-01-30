@@ -8,16 +8,11 @@ I am a creator specializing in 3D design, animation and vector drawing (not yet,
 
 My work can be found [here](https://rarible.com/items/sale).
 It is updated regularly, so keep an eye on it. Or better yet, hit that follow button on that webpage.
-
+My username there is Herr 23.
+Just in case that link does not work properly.
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
