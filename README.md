@@ -10,9 +10,10 @@ My work can be found [here](https://rarible.com/items/sale).
 It is updated regularly, so keep an eye on it. Or better yet, hit that follow button on that webpage.
 My username there is Herr 23.
 Just in case that link does not work properly.
-# Header 1
-## Header 2
-### Header 3
+
+## Examples of my work
+You can find one of my many images ![here](src)
+
 
 **Bold** and _Italic_ and `Code` text
 
