@@ -22,4 +22,3 @@ It is updated regularly, so keep an eye on it. Or better yet, hit that follow bu
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
