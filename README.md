@@ -12,9 +12,4 @@ My username there is Herr 23.
 Just in case that link does not work properly.
 
 ## Examples of my work
-You can find one of my many images ![here](mail 9.mp4)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+You can find one of my many images [here](https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:64606019300981455660663143093634491188788310812530906169263189228545143472132?tab=details) (the website may take a while to load, please be patient).
